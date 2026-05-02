@@ -54,14 +54,16 @@
 - 对比不同模型的输出质量
 - 记录 Agent 多轮修改过程
 - 输出 MiMo 在中文 Agent 编程场景下的体验报告
+- 当前阶段主要完成轻量级任务验证，后续会继续补充更多复杂任务和 MiMo 实测记录。
 
 ## Demo 运行方式
 
-第一轮测试 Demo 位于：
+第一轮可运行 Demo 位于：`demo/todo-app/`
 
-```text
-demo/todo-app/
+运行方式：
 
-## Demo
+1. 下载或克隆仓库；
+2. 打开 `demo/todo-app/index.html`；
+3. 在浏览器中测试添加、删除、完成状态和 localStorage 保存功能。
 
-第一轮可运行 Demo 位于 `demo/todo-app/`，直接打开 `index.html` 即可测试添加、删除、完成状态和 localStorage 保存功能。
+该 Demo 用于验证 AI Agent 是否能够根据中文需求生成可运行的前端小工具。
