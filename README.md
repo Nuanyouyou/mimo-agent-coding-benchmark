@@ -61,4 +61,3 @@
 
 ```text
 demo/todo-app/
-
