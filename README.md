@@ -61,3 +61,7 @@
 
 ```text
 demo/todo-app/
+
+## Demo
+
+第一轮可运行 Demo 位于 `demo/todo-app/`，直接打开 `index.html` 即可测试添加、删除、完成状态和 localStorage 保存功能。
