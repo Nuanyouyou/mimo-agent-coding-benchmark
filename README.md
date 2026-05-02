@@ -54,3 +54,10 @@
 - 对比不同模型的输出质量
 - 记录 Agent 多轮修改过程
 - 输出 MiMo 在中文 Agent 编程场景下的体验报告
+
+## Demo 运行方式
+
+第一轮测试 Demo 位于：
+
+```text
+demo/todo-app/
