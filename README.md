@@ -61,3 +61,11 @@
 
 ```text
 demo/todo-app/
+
+运行方式：
+
+下载或克隆仓库；
+打开 demo/todo-app/index.html；
+在浏览器中测试添加、删除、完成状态和本地保存功能。
+
+该 Demo 用于验证 AI Agent 是否能够根据中文需求生成可运行的前端小工具。
