@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-04-26
+## 2026-04-29
 
 - 初始化 MiMo Agent Coding Benchmark 仓库
 - 完成第一轮测试任务设计
